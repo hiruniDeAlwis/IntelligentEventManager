@@ -1,5 +1,5 @@
 {
-  "name": "asanga_new",
+  "name": "hiruni",
   "version": "1.0.0",
   "description": "ideators software project",
   "main": "app.js",
@@ -17,6 +17,6 @@
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0"
   },
-  "author": "Asanga",
+  "author": "Hiruni",
   "license": "ISC"
 }
